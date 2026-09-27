@@ -29,7 +29,7 @@ Faz parte do **NUD | Constellation Method**, de Thainá Ramos.
 
 > **SIPOC-R = SIPOC + Riscos** — a extensão de Riscos do NUD. Não é o "R" de *Requirements*.
 
-Para a análise consolidada de riscos (matriz priorizada, visão de riscos e oportunidades), use a skill complementar **[nud-diagnóstico-de-riscos](https://github.com/whatevertr/skill-nud-diagnostico-de-riscos)**.
+Para a análise consolidada de riscos (matriz priorizada, visão de riscos e oportunidades), use a skill complementar **[nud-diagnóstico-de-riscos](https://github.com/whatevertr/skill-whatevertr-diagnostico-de-riscos)**.
 
 ## Estrutura
 

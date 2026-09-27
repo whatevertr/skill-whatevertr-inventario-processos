@@ -29,7 +29,7 @@ Part of the **NUD | Constellation Method**, by Thainá Ramos.
 
 > **SIPOC-R = SIPOC + Risks** — the NUD Risk extension. It is not the "R" for *Requirements*.
 
-For the consolidated risk analysis (prioritized matrix, risk-and-opportunity view), use the companion skill **[nud-diagnostico-de-riscos](https://github.com/whatevertr/skill-nud-diagnostico-de-riscos)**.
+For the consolidated risk analysis (prioritized matrix, risk-and-opportunity view), use the companion skill **[nud-diagnostico-de-riscos](https://github.com/whatevertr/skill-whatevertr-diagnostico-de-riscos)**.
 
 ## Structure
 
