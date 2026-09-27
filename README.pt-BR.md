@@ -2,10 +2,10 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-night.png">
-  <img alt="nud-inventario-processos — insumos brutos viram um Inventário de Processos SIPOC-R em .xlsx" src="assets/banner-day.png">
+  <img alt="whatevertr-inventario-processos — insumos brutos viram um Inventário de Processos SIPOC-R em .xlsx" src="assets/banner-day.png">
 </picture>
 
-# nud-inventário-processos
+# whatevertr-inventário-processos
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -29,12 +29,12 @@ Faz parte do **NUD | Constellation Method**, de Thainá Ramos.
 
 > **SIPOC-R = SIPOC + Riscos** — a extensão de Riscos do NUD. Não é o "R" de *Requirements*.
 
-Para a análise consolidada de riscos (matriz priorizada, visão de riscos e oportunidades), use a skill complementar **[nud-diagnóstico-de-riscos](https://github.com/whatevertr/skill-whatevertr-diagnostico-de-riscos)**.
+Para a análise consolidada de riscos (matriz priorizada, visão de riscos e oportunidades), use a skill complementar **[whatevertr-diagnóstico-de-riscos](https://github.com/whatevertr/skill-whatevertr-diagnostico-de-riscos)**.
 
 ## Estrutura
 
 ```
-nud-inventario-processos/
+whatevertr-inventario-processos/
 ├── SKILL.md                         # instruções da skill
 ├── assets/
 │   └── Modelo_Inventario_Processos.xlsx   # modelo de saída (exemplo: "Fazer um bolo")
@@ -45,7 +45,7 @@ nud-inventario-processos/
 
 ## Como instalar
 
-Copie a pasta `nud-inventario-processos/` para o diretório de skills do seu Claude
+Copie a pasta `whatevertr-inventario-processos/` para o diretório de skills do seu Claude
 (`.claude/skills/`) e a skill passa a ser acionada pelos gatilhos descritos no `SKILL.md`.
 
 ## Exemplo

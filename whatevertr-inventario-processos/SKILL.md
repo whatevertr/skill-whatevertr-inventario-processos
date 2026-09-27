@@ -1,5 +1,5 @@
 ---
-name: nud-inventario-processos
+name: whatevertr-inventario-processos
 description: "Use SEMPRE que o usuário pedir para preencher, criar, atualizar ou consolidar um Inventário de Processos no modelo SIPOC-R personalizado (Modelo_Inventario_Processos.xlsx). Acione também quando enviar insumos brutos — áudio, transcrição, .pptx, .docx, políticas, procedimentos, anotações, fluxograma em PDF — pedindo para 'mapear processos', 'documentar', 'transformar em SIPOC', 'levantar', 'organizar em planilha de processos', 'consolidar no inventário', ou expressões equivalentes. Acione ainda quando descrever oralmente/em texto demandas e tarefas pedindo para organizá-las como processo. Analisa insumos com técnica de processos, separa múltiplos processos em linhas distintas, infere riscos/oportunidades (análise por categoria inspirada em FMEA, só severidade) e legislação aplicável (LGPD, CLT), marcando as inferências pela COR do texto (laranja = inferido) e por ID sequencial contínuo (E01, R01, O01), e entrega .xlsx no padrão exato do modelo (Excel Table, cores, estrutura)."
 license: CC-BY-4.0
 ---
